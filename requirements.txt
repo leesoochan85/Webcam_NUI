@@ -1,0 +1,4 @@
+# Pinned baseline; install in a dedicated 64-bit Python 3.11/3.12 venv.
+mediapipe==0.10.35
+opencv-contrib-python==4.11.0.86
+numpy==1.26.4
